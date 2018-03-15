@@ -1,0 +1,10 @@
+
+[submodule "rack666666"]
+	path = rack666666
+	url = git://github.com/chneukirchen/rack.git
+[submodule "test"]
+	path = test
+	url = git://github.com/chneukirchen/rack.git
+[submodule "pp"]
+	path = pp
+	url = https://github.com/zhurj/children.git
